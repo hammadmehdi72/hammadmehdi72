@@ -42,6 +42,9 @@ AI-powered background removal tool, live in production.
 <a href="https://bgremover.hammadmehdi.site">
   <img src="https://img.shields.io/badge/Live%20Demo-bgremover.hammadmehdi.site-A78BFA?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
+<a href="https://hammadmehdi.site">
+  <img src="https://img.shields.io/badge/Portfolio-hammadmehdi.site-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 </div>
 
